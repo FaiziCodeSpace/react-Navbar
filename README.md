@@ -24,9 +24,9 @@ react-Navbar/
 ├── src/
 │   ├── components/
 │   │   ├── navbar.jsx
-|   |   └── router.jsx
-|   |   ├── Css/
-|   |   └── style.css
+│   │   └── router.jsx
+│   │   ├── Css/
+│   │   └── style.css
 │   ├── pages/
 │   │   ├── home.jsx
 │   │   ├── about.jsx
@@ -65,12 +65,13 @@ react-Navbar/
 
 Structure
 > <img width="819" height="833" alt="image" src="https://github.com/user-attachments/assets/78e21f17-c807-425c-b4cd-3c43165ab999" />
+UI
+> <img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/91f87533-9441-4e14-bfca-d2ec08eef045" />
+> <img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/48f5ecfd-5a11-4676-8d1f-ad653abf89a8" />
 
 
 
-| Home Page | About Page | Services Page | Contact Page |
-|-----------|------------|---------------|--------------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Services](screenshots/services.png) | ![Contact](screenshots/contact.png) |
+
 
 ---
 
