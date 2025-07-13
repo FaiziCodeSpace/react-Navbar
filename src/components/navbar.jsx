@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { NavLink, Outlet } from "react-router";
 function Navbar(){
     return(<>
     <div className="navBar">
@@ -7,6 +7,7 @@ function Navbar(){
         <NavLink className="link" to={"/contact"}>Contact Us</NavLink>
         <NavLink className="link" to={"/menu"}>Menu</NavLink>
     </div>
+    <Outlet/>
     </>)
 }
 
