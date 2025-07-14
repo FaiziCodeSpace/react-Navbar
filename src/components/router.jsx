@@ -17,6 +17,7 @@ export default function Router() {
         </Route>
 
         <Route path="/menu" element={<Menu />}>
+          <Route index element={<Navigate to="user" replace />} />
           <Route path={"details"} element={<h1>Details</h1>} />
           <Route path={"user"} element={<h1>User</h1>} />
           <Route path={"data"} element={<h1>Data</h1>} />
