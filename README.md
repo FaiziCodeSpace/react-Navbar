@@ -13,6 +13,9 @@ A clean and fully functional navigation bar built using **React Router v6**, des
 - ✅ **Custom CSS Styling**
 - ✅ **Mobile-Friendly and Responsive**
 - ✅ **Easy to Customize and Extend**
+- ✅ **Active NavLink Styling** – Highlights selected nav buttons using `NavLink`, showing understanding of `Link` vs `NavLink`
+- ✅ **Default Selected Nested Route** – Uses `index` routing to make the `details` route active by default under `/menu`
+- ✅ **Universal Home Selector** – Ensures Home NavLink is always styled and visibly active when on the homepage
 
 ---
 
